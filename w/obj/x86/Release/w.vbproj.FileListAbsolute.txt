@@ -1,0 +1,5 @@
+F:\trolling\NjRat 0.7D Green Edition\decompiled\w\obj\x86\Release\w.vbproj.CoreCompileInputs.cache
+F:\trolling\NjRat 0.7D Green Edition\decompiled\w\bin\Release\w.exe
+F:\trolling\NjRat 0.7D Green Edition\decompiled\w\bin\Release\w.pdb
+F:\trolling\NjRat 0.7D Green Edition\decompiled\w\obj\x86\Release\w.exe
+F:\trolling\NjRat 0.7D Green Edition\decompiled\w\obj\x86\Release\w.pdb

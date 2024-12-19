@@ -1,0 +1,2 @@
+F:\trolling\NjRat 0.7D Green Edition\decompiled\w\obj\x86\Debug\w.vbproj.AssemblyReference.cache
+F:\trolling\NjRat 0.7D Green Edition\decompiled\w\obj\x86\Debug\w.vbproj.CoreCompileInputs.cache
